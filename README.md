@@ -1,1 +1,2 @@
-# diamond-game2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
